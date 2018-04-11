@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://eevangel.github.io/Portfolio1"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://eevangel.github.io/Portfolio1"></a> </center>
 
 
 
@@ -19,10 +19,3 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://eevangel.github.io/Portfolio1) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
