@@ -1,4 +1,7 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Personal Art Gallery
+  url: /ArtGallery/
+- title: Side Projects
+  url: /SideProjects/
+  
