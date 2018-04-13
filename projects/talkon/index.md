@@ -14,11 +14,15 @@ TALK-ON is a mixed reality test bed designed to explore questions of simulation 
 
 The TALK-ON prototype is focused on cognitive and communication skills training of novice tank platoon leaders, who must accurately assess tactical situations, make quick decisions, and communicate effectively with the tank crew, other tanks within and across platoons, and higher command.
 
+
+
 ## Technical Lead
 - Refactored and inherited development on Oculus DK2 communication trainer for tank commander students enrolled in the Armor Basic Officer Leaders Course (ABOLC). The project assesses the educational efficacy of a lower fidelity, cheaper, and portable system than the higher fidelity, extremely high cost, and massive Close Combat Tactical Trainer(CCTT)
 - Developed GUI for game master for all NPCs as well as the scripted training scenario
 - Created user gameplay, voice chat / recording, and gameplay assessment for research collaboration with Army Research Lab (ARL) West and ABOLC
 - Updated development to newer Unity version, Vive headset with Vive Trackers, and custom peripheral for audio channel switching
+
+
 
 ## Gameplay Videos
 
@@ -32,6 +36,7 @@ The TALK-ON prototype is focused on cognitive and communication skills training 
 - The Gamemaster GUI is designed to facilitate control over many entities in the scenario including the enemy combatants, audio prompts, crew members, and his/her platoon.
 
 
+
 ### TALK-ON Communication
 
 <iframe src="https://player.vimeo.com/video/264381700" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -40,6 +45,7 @@ The TALK-ON prototype is focused on cognitive and communication skills training 
 - The Gamemaster uses the GUI to prompt the tank commander to conduct roll-over drills and prepare for the mission. The GUI for scripted audio and events is dynamically created through a JSON file at runtime.
 - The Tank Commander hears the prompt and directs his platoon to report their status. Afterwards, the commander can change audio channels using the JBOX (the 3d printed custom peripheral) and communicate his platoon's status to the command.
 - The Gamemaster can assess if the Tank Commander student responds appropriately and on the correct channels.
+
 
 
 ### Showcasing Enemy Aircraft Encounter
