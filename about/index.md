@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2018-04-12
 comments: false
 ---
-    
+   
 <center><a href="http://eevangel.github.io/Portfolio1"></a> </center>
-
-
 
 
 ## Preview
