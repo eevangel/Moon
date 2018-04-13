@@ -22,6 +22,24 @@ The TALK-ON prototype is focused on cognitive and communication skills training 
 
 ## Gameplay Videos
 
+### Showcasing Loading and Firing of ammo
+
+<iframe src="https://player.vimeo.com/video/264383056" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/264383056">Talk On Load &amp; Fire</a> from <a href="https://vimeo.com/user83913317">edgar evangelista</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+- The Tank Commander spots a target through the thermal camera in the tank cabin. He radios his loader to load a round and commands his gunner to fire.
+- The Gamemaster prompts the load animation (as the "Loader") and aims/fires the weapon (as the "Gunner").
+- The Gamemaster GUI is designed to facilitate control over many entities in the scenario including the enemy combatants, audio prompts, crew members, and his/her platoon.
+
+### TALK-ON Communication
+
+<iframe src="https://player.vimeo.com/video/264381700" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/264381700">Talk On Communication using the JBox</a> from <a href="https://vimeo.com/user83913317">edgar evangelista</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+-The Gamemaster uses the GUI to prompt the tank commander to conduct roll-over drills and prepare for the mission. The GUI for scripted audio and events is dynamically created through a JSON file at runtime.
+-The Tank Commander hears the prompt and directs his platoon to report their status. Afterwards, the commander can change audio channels using the JBOX (the 3d printed custom peripheral) and communicate his platoon's status to the command.
+-The Gamemaster can assess if the Tank Commander student responds appropriately and on the correct channels.
+
 ### Showcasing Enemy Aircraft Encounter
 
 <iframe src="https://player.vimeo.com/video/264380727" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -29,3 +47,4 @@ The TALK-ON prototype is focused on cognitive and communication skills training 
 
 - Using the Vive system, the soldier can stand up "out of the open hatch" and have full spatial awareness, so they may spot the enemy aircraft, just like in a tank. CCTT would use small displays surrounding a hatch which, limited the soldier's perspective.
 - The soldier spots the enemy aircraft, hides in the tank, and communicates to his Loader (the Gamemaster IRL) to load an anti-aircraft round. Then, the soldier directs his platoon to engage with the enemy aircraft.
+- The current scripted scenario has multiple events that the soldier is assessed on depending on their leadership and communication. The Gamemaster has the ability to prompt/mold certain events as well as record the student's performance.
