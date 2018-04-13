@@ -8,7 +8,7 @@ comments: false
 
 #### (Team Assessment and Learner Knowledge Observational Network)
 
-[TALK-ON summary](http://ict.usc.edu/prototypes/talk-on/)
+[TALK-ON project page @ ict.usc.edu](http://ict.usc.edu/prototypes/talk-on/)
 
 TALK-ON is a mixed reality test bed designed to explore questions of simulation fidelity, assessment, and feasibility involved in using consumer virtual reality technologies for armored vehicle leadership training.
 
