@@ -31,14 +31,16 @@ The TALK-ON prototype is focused on cognitive and communication skills training 
 - The Gamemaster prompts the load animation (as the "Loader") and aims/fires the weapon (as the "Gunner").
 - The Gamemaster GUI is designed to facilitate control over many entities in the scenario including the enemy combatants, audio prompts, crew members, and his/her platoon.
 
+
 ### TALK-ON Communication
 
 <iframe src="https://player.vimeo.com/video/264381700" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/264381700">Talk On Communication using the JBox</a> from <a href="https://vimeo.com/user83913317">edgar evangelista</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
--The Gamemaster uses the GUI to prompt the tank commander to conduct roll-over drills and prepare for the mission. The GUI for scripted audio and events is dynamically created through a JSON file at runtime.
--The Tank Commander hears the prompt and directs his platoon to report their status. Afterwards, the commander can change audio channels using the JBOX (the 3d printed custom peripheral) and communicate his platoon's status to the command.
--The Gamemaster can assess if the Tank Commander student responds appropriately and on the correct channels.
+- The Gamemaster uses the GUI to prompt the tank commander to conduct roll-over drills and prepare for the mission. The GUI for scripted audio and events is dynamically created through a JSON file at runtime.
+- The Tank Commander hears the prompt and directs his platoon to report their status. Afterwards, the commander can change audio channels using the JBOX (the 3d printed custom peripheral) and communicate his platoon's status to the command.
+- The Gamemaster can assess if the Tank Commander student responds appropriately and on the correct channels.
+
 
 ### Showcasing Enemy Aircraft Encounter
 
