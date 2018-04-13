@@ -3,6 +3,7 @@ layout: post
 title: TALK-ON
 date: 2018-04-12
 excerpt: "Talk On : (Team Assessment and Learner Knowledge Observational Network)"
+project: true
 comments: false
 ---
 
