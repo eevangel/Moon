@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Blue Shark"
+date: 2018-04-14
+excerpt: "Blue Shark for USC ICT"
+project: true
+comments: false
+---
+
+#### (Enhanced Environment for Communication and Collaboration)
+
+[Blue Shark summary page @ ict.usc.edu](http://ict.usc.edu/prototypes/e2c2/)
+[Blue Shark project Page] (http://e2c2.ict.usc.edu/)
+
+
+
+## Technical Lead as Programmer Analyst 3 for USC ICT's Mixed Reality Lab 2013 - 2015
+
+
+
+
+## Gameplay Videos
+
+### About Project BlueShark
+
+<iframe src="https://drive.google.com/file/d/1rC9n9A65WRJZRFV_DTmD33Oyu72KPPjp/preview" width="640" height="480"></iframe>
+
+### Mixed reality gameplay demo
+
+<iframe src="https://drive.google.com/file/d/1_JHP6hZnjEKJDHc6qDqQ_Wt511nmy1BL/preview" width="640" height="480"></iframe>
+
+### Accompanied Vision Video
+
+<iframe src="https://drive.google.com/file/d/1TX6K21SKw70RGpdBHuGiKJaOkX3UfTBU/preview" width="640" height="480"></iframe>
+
