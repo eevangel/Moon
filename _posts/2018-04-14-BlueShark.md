@@ -15,7 +15,15 @@ comments: false
 
 
 ## Technical Lead as Programmer Analyst 3 for USC ICT's Mixed Reality Lab 2013 - 2015
+- Refactored network coordination and state management between multiple platforms and applications in the Unity Engine to create a cohesive user experience among multiple technology showcases (Android and Windows) 
 
+- Developed Mixed Reality experience integrating PhaseSpace motion capture sensors, Oculus DK2, three monitors, one touchscreen, and a glass panel acting as a virtual interface to showcase possible prototypical naval technology interfaces for controlling drones and ships and receiving information from the environment for tactical maneuvering 
+
+- Created Android Augmented Reality app using Vuforia and fiducials to inform users of the project's various technologies 
+
+- Integrated Pocket Sphinx to allow voice control for recording audio notes with a virtual human interface 
+
+- Integrated Kinect sensor to detect users’ proximity to trigger virtual human reaction
 
 
 
