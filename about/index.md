@@ -8,7 +8,6 @@ comments: false
    
 <center><a href="http://eevangel.github.io/Portfolio1"></a> </center>
 
-## 
 
 So let me start from the beginning. I grew up playing video games, loved playing World Class Track Meet on the NES with my siblings and cousins, sometimes cheating at the long jump and failing miserably.
 
